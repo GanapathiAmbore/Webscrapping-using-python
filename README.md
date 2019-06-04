@@ -11,6 +11,6 @@ urllib
 Json for file storing
 Advantages of using web scrapping are as follows
 
-you will find the complete source code here
+you will find the complete information here
 
 https://ganapathiambore.blogspot.com/2019/06/webscrapping-using-python-for-machine.html
